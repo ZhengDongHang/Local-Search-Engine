@@ -3,3 +3,5 @@
   
 CLIP模型csdn链接为：https://blog.csdn.net/2301_77491330/article/details/147965850?fromshare=blogdetail&sharetype=blogdetail&sharerId=147965850&sharerefer=PC&sharesource=2301_77491330&sharefrom=from_link  
 SOM算法csdn链接为：https://blog.csdn.net/2301_77491330/article/details/147976971?fromshare=blogdetail&sharetype=blogdetail&sharerId=147976971&sharerefer=PC&sharesource=2301_77491330&sharefrom=from_link
+
+数据集需要先解压缩
